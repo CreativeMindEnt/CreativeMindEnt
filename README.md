@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Creative Mind Ent - Photography Portfolio<br>
+# Creative Mind Ent - Photography Portfolio
 <br>Welcome to Creative Mind Ent! This is your destination for exploring my photography projects and portfolio, showcasing the art of capturing moments.<br>
 <br>## About Me<br>
 <br>Hello! I'm Bedan, the founder of Creative Mind Ent. Based in Nairobi. At Creative Mind Ent, I strive to create stunning visuals across various genres, including [list genres: landscape, portrait, wildlife, etc.].<br>
