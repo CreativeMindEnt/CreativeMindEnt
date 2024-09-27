@@ -14,9 +14,9 @@ I'm always open to collaborations, feedback, or a friendly chat! Feel free to re
 - Instagram: [@yourinstagram](https://www.instagram.com/yourinstagram)
 - Website/Portfolio: [yourwebsite.com](http://yourwebsite.com)
 
-## License
+<!-- ## License
 
-This work is licensed under the [Your License Type, e.g., Creative Commons Attribution-NonCommercial 4.0 International License](link-to-license).<br>
+This work is licensed under the [Your License Type, e.g., Creative Commons Attribution-NonCommercial 4.0 International License](link-to-license).<br> -->
 
 ## Tools & Resources
 
