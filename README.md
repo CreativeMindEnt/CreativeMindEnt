@@ -1,41 +1,18 @@
-# 📸 Welcome to Creative Mind Ent!
-
-!Photography Banner
-
-## About Us
-We are a passionate team of photographers dedicated to capturing the beauty of the world through our lenses. From stunning landscapes to intimate portraits, we strive to create images that tell a story and evoke emotion.
-
-## Our Services
-- **Portrait Photography**: Capturing the essence of individuals and groups.
-- **Event Photography**: Documenting special moments at weddings, parties, and corporate events.
-- **Landscape Photography**: Showcasing the beauty of nature and urban environments.
-- **Product Photography**: Highlighting the best features of your products for marketing purposes.
-
-<!-- ## Our Projects
-- **Project Name 1**: A collection of our best portrait shots.
-- **Project Name 2**: Stunning landscapes from around the world.
-- **Project Name 3**: Highlights from recent events we've covered. -->
-
-<!-- ## Meet the Team
-- **[Your Name]**: Founder & Lead Photographer
-- **[Team Member 1]**: Event Photographer
-- **[Team Member 2]**: Portrait Specialist
-- **[Team Member 3]**: Landscape Photographer -->
-
-## Connect with Us
-- Website
-- Instagram
-- LinkedIn
-- Twitter
-
-## GitHub Stats
-!Your GitHub Stats
-
-## Contribution Graph
-!GitHub Contribution Graph
+# 💫 About Me:
+# Creative Mind Ent - Photography Portfolio<br><br>Welcome to Creative Mind Ent! This is your destination for exploring my photography projects and portfolio, showcasing the art of capturing moments.<br><br>## About Me<br><br>Hello! I'm [Your Name], the founder of Creative Mind Ent. Based in [Your Location], my passion for photography began [brief backstory or motivation]. At Creative Mind Ent, I strive to create stunning visuals across various genres, including [list genres: landscape, portrait, wildlife, etc.].<br><br>## Projects<br><br>### [Project Title 1]<br>- Description: A brief overview of the project, its concept, and inspiration.<br>- Technologies/Techniques Used: (e.g., camera gear, editing software)<br>- Gallery: [Link to gallery or showcase]<br><br>### [Project Title 2]<br>- Description: Short description and context.<br>- Technologies/Techniques Used: <br>- Gallery: [Link to gallery or showcase]<br><br>*(Repeat for additional projects)*<br><br>## Get in Touch<br><br>I'm always open to collaborations, feedback, or a friendly chat! Feel free to reach out:<br><br>- Email: [your-email@example.com]<br>- Instagram: [@yourinstagram](https://www.instagram.com/yourinstagram)<br>- Website/Portfolio: [yourwebsite.com](http://yourwebsite.com)<br><br>## License<br><br>This work is licensed under the [Your License Type, e.g., Creative Commons Attribution-NonCommercial 4.0 International License](link-to-license).<br><br>## Tools & Resources<br><br>- Camera Gear: [List your main equipment]<br>- Editing Software: [List software you use]<br>- Learning Resources: [Books, websites, or courses that have helped you]<br><br>Thank you for visiting Creative Mind Ent! I hope you enjoy my work as much as I enjoy creating it.<br>
 
 
-<!---
-CreativeMindEnt/CreativeMindEnt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mindcreative720) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@creative_mind254) 
+
+# 💻 Tech Stack:
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=CreativeMindEnt&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=CreativeMindEnt&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CreativeMindEnt&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=CreativeMindEnt&icon=10&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
