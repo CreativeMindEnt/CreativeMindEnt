@@ -10,7 +10,7 @@ Hello! I'm Bedan, the founder of Creative Mind Ent. Based in Nairobi. At Creativ
 
 I'm always open to collaborations, feedback, or a friendly chat! Feel free to reach out:
 
-- Email: [your-email@example.com]
+- Email: [bedanwachira73@gmail.com]
 - Instagram: [@yourinstagram](https://www.instagram.com/yourinstagram)
 - Website/Portfolio: [yourwebsite.com](http://yourwebsite.com)
 
