@@ -18,13 +18,6 @@ I'm always open to collaborations, feedback, or a friendly chat! Feel free to re
 
 This work is licensed under the [Your License Type, e.g., Creative Commons Attribution-NonCommercial 4.0 International License](link-to-license).<br> -->
 
-## Tools & Resources
-
-- Camera Gear: [List your main equipment]
-- Editing Software: [List software you use]
-- Learning Resources: [Books, websites, or courses that have helped you]
-  <br>Thank you for visiting Creative Mind Ent! I hope you enjoy my work as much as I enjoy creating it.
-
 ## 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mindcreative720) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@creative_mind254)
